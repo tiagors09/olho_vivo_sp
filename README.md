@@ -18,7 +18,7 @@ Aplicativo desenvolvido em Flutter para facilitar a mobilidade urbana em São Pa
 1. Clone o repositório:  
 
     ```bash
-    git clone
+    git clone git@github.com:tiagors09/olho_vivo_sp.git
     ```
   
 2. Navegue até o diretório do projeto:  
