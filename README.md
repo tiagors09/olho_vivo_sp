@@ -34,7 +34,8 @@ Aplicativo desenvolvido em Flutter para facilitar a mobilidade urbana em São Pa
   
   ```bash
   flutter run
-
+  ```
+  
 ## Demonstração
 
 ![gif](.demo/1.gif)
@@ -42,4 +43,3 @@ Aplicativo desenvolvido em Flutter para facilitar a mobilidade urbana em São Pa
 ![print2](.demo/print2.png)
 
 Desenvolvido com ♥ por Tiago Rodrigues Sousa.
-
