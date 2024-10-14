@@ -17,24 +17,27 @@ Aplicativo desenvolvido em Flutter para facilitar a mobilidade urbana em São Pa
 
 1. Clone o repositório:  
 
-   ```bash
-   git clone <url-do-repositorio>
-
+    ```bash
+    git clone
+    ```
+  
 2. Navegue até o diretório do projeto:  
 
-  ```bash
-  cd olho_vivo_sp
+    ```bash
+    cd olho_vivo_sp
+    ```
 
 3. Instale as dependências:
 
-  ```bash
-  flutter pub get
+    ```bash
+    flutter pub get
+    ```
 
 4. Execute o aplicativo:
   
-  ```bash
-  flutter run
-  ```
+    ```bash
+    flutter run
+    ```
   
 ## Demonstração
 
